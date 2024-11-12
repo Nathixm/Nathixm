@@ -1,16 +1,55 @@
-## Hi there 👋
 
-<!--
-**Nathixm/Nathixm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello Guys 👋
 
-Here are some ideas to get you started:
+Meu nome é Nathália Martins!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Troquei as prateleiras do varejo pelas linhas de código! ️Com um passado como gerente de loja e um presente focado em testes de software, busco unir minha paixão por pessoas e tecnologia.  
+
+Em constante aprendizado, sou estudante de Teste de Software/QA e estou desenvolvendo habilidades em planejamento e execução de testes manuais, com foco em automatização de API, Web e Mobile.
+
+Sou formada em Licenciatura em História pela PUCGO, e estou cursando minha segunda Graduação em Análise e Desenvolvimento de Sistema pela UNINTER MG.
+
+<br>
+
+## 🔭 Atualmente trabalho com 
+
+Participação em Squad de Teste - Projeto Trademaster
+
+Mapeamento da plataforma fintech brasileira.  
+Trabalho em equipe, seguindo práticas ágeis (Scrum, XP e Kaban) e cerimônias (Product Planning, Sprint Planning, Daily Meeting, Review e Retrospective).  
+Práticas em testes manuais, exploratórios, automação web, mobile e API.
+
+<br>
+
+## 🌱 Atualmente estou estudando
+Planejamento e análise de testes
+
+Testes Manuais
+
+Testes automatizados em API, Mobile, Web
+
+Linguagem JavaScript, Python, HTML e CSS
+
+<br>
+
+
+## ⚡ Portfólio em Construção
+
+Em breve...
+
+<br>
+
+## 💬 Redes Sociais ...
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nathixm/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathixm/)
+
+<br>
+
+## 📫 Entre em contato comigo:
+e-mail: nath.html@gmail.com
+<br>
+
+## ⚡ Git stats: ...
+
+Em breve...
