@@ -17,7 +17,7 @@ Participação em Squad de Teste - Projeto Trademaster
 
 Mapeamento da plataforma fintech brasileira.  
 Trabalho em equipe, seguindo práticas ágeis (Scrum, XP e Kaban) e cerimônias (Product Planning, Sprint Planning, Daily Meeting, Review e Retrospective).  
-Práticas em testes manuais, exploratórios, automação web, mobile e API.
+Práticas em testes manuais, exploratórios, automação Web.
 
 <br>
 
