@@ -37,7 +37,7 @@ Linguagem JavaScript, Python, HTML e CSS
 
 Portifólio criado em HTML e CSS
 
-[Em breve...](https://nathixm.github.io/portifolio-nathalia-martins/)
+(https://nathixm.github.io/portifolio-nathalia-martins/)
 
 <br>
 
