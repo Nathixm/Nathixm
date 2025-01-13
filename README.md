@@ -33,7 +33,7 @@ Linguagem JavaScript, Python, HTML e CSS
 <br>
 
 
-## ⚡ Portfólio em Construção
+## ⚡ Portfólio 
 
 Portifólio criado em HTML e CSS
 
