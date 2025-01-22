@@ -11,23 +11,19 @@ Sou formada em Licenciatura em História pela PUCGO, e estou cursando minha segu
 
 <br>
 
-## 🔭 Atualmente trabalho com 
+## 🔭 Atualmente trabalho na
 
-Participação em Squad de Teste - Projeto Trademaster
-
-Mapeamento da plataforma fintech brasileira.  
+## Revvo
+Projeto Moodle
 Trabalho em equipe, seguindo práticas ágeis (Scrum, XP e Kaban) e cerimônias (Product Planning, Sprint Planning, Daily Meeting, Review e Retrospective).  
 Práticas em testes manuais, exploratórios, automação Web.
 
 <br>
 
 ## 🌱 Atualmente estou estudando
-Planejamento e análise de testes
 
-Testes Manuais
-
+Testes manuais
 Testes automatizados em API, Mobile, Web
-
 Linguagem JavaScript, Python, HTML e CSS
 
 <br>
