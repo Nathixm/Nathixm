@@ -11,7 +11,7 @@ Sou formada em Licenciatura em História pela PUCGO, e estou cursando minha segu
 
 <br>
 
-## 🔭 Atualmente trabalho na
+## 🔭 Atualmente trabalho
 
 ## Revvo
 Projeto Moodle
