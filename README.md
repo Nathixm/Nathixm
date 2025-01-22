@@ -15,7 +15,9 @@ Sou formada em Licenciatura em História pela PUCGO, e estou cursando minha segu
 
 ## Revvo
 Projeto Moodle
+
 Trabalho em equipe, seguindo práticas ágeis (Scrum, XP e Kaban) e cerimônias (Product Planning, Sprint Planning, Daily Meeting, Review e Retrospective).  
+
 Práticas em testes manuais, exploratórios, automação Web.
 
 <br>
@@ -23,7 +25,9 @@ Práticas em testes manuais, exploratórios, automação Web.
 ## 🌱 Atualmente estou estudando
 
 Testes manuais
+
 Testes automatizados em API, Mobile, Web
+
 Linguagem JavaScript, Python, HTML e CSS
 
 <br>
